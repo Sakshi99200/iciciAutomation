@@ -11,7 +11,7 @@ And verify user has ability to enter promo code and place the order
 
 Examples:
 | Name  |
-| Tom 	|
+| sakshi 	|
 
 
 
